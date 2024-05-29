@@ -1,0 +1,17 @@
+.heading{
+    color: yellow;
+    background-color: black;
+    box-shadow: 10px 10px 10px cyan;
+    font-family: algerian;
+    width:90%;
+    border-radius: 25px;
+}
+.anchor{
+    color: darkblue;
+    background-color: lightcoral;
+    box-shadow: 5px 5px 5px green;
+    font-family: comic;
+    width: 25%;
+    border-radius: 50px;
+    font-size: 25px;
+}
